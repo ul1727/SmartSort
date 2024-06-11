@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSort", "SmartSort\SmartSort.csproj", "{3DCFA946-B8C4-46BF-997C-D9AC7D646562}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCFA946-B8C4-46BF-997C-D9AC7D646562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCFA946-B8C4-46BF-997C-D9AC7D646562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCFA946-B8C4-46BF-997C-D9AC7D646562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCFA946-B8C4-46BF-997C-D9AC7D646562}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {233ED129-9767-4075-9BDA-F79C4FB51D2B}
+	EndGlobalSection
+EndGlobal
